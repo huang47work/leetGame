@@ -24,3 +24,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+.gradle/4.10.3/javaCompile/classAnalysis.bin
+.gradle/4.10.3/vcsMetadata-1/
+.idea/dictionaries/
+.idea/httpRequests/
+.idea/vcs.xml
+build/
+src/main/resources/
+src/test/
