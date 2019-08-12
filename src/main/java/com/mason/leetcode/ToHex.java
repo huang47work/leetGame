@@ -20,7 +20,8 @@ public class ToHex {
 
     public static void main(String[] args) {
         System.out.println(toHex(28));
-
+        String s = "s";
+        int a = s.indexOf("a");
     }
 
 }

@@ -3,7 +3,7 @@ package com.mason.leetcode;
 /**
  * Created by huang_sq on 2019/8/8.
  */
-public class SubStringMatch {
+public class SubStringMatchRepeat {
 
     public static boolean fuckToMuchTime(String s) {
         if (s == null || s.length() == 1) {
