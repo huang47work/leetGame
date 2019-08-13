@@ -36,7 +36,7 @@ public class MaxSubArraySum {
         int ans = nums[0];
         int sum = 0;
         for (int num : nums) {
-            if (sum > 0) {
+            if (sum + num > num) {
                 sum += num;
             } else {
                 sum = num;
